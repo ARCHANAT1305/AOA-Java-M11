@@ -15,7 +15,6 @@ To Write a Java program that takes an integer input N from the user and prints a
 ### Developed by: ARCHANA T
 ### Register Number: 212223240013 
 ```
-//Type your code here
 import java.util.*;
 public class Sum1
 {
