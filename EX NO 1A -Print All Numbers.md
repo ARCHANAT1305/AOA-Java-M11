@@ -12,8 +12,8 @@ To Write a Java program that takes an integer input N from the user and prints a
 6. Stop the program.
 
 ## Program:
-Developed by: ARCHANA T
-Register Number: 212223240013 
+### Developed by: ARCHANA T
+### Register Number: 212223240013 
 ```
 //Type your code here
 import java.util.*;
